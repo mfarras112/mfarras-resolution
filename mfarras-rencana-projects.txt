@@ -4,6 +4,7 @@ Rencana Pembelajaran pembuatan project
 - Javascript
 - Javascript DOM (Document Object Model) 
   > Vue.js
+  > React.js
 - Struktur Data Dasar
 - Dasar dasar PHP
 - PHP frameworks
