@@ -1,0 +1,7 @@
+Rencana Pembelajaran pembuatan project
+
+- CSS SASS
+- Javascript
+- Javascript DOM (Document Object Model) 
+- Dasar dasar PHP
+- PHP frameworks
