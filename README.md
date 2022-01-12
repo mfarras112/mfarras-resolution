@@ -1,2 +1,2 @@
 # mfarras-resolution
-Repository untuk menyimpan project pembelajaran saya
+Resolusi tahapan pembelajaran webside saya
