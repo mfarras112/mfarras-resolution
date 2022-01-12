@@ -1,4 +1,5 @@
 Resolution
 - mempelajari frontend website hingga expert
+- mempelajari framework javascript 
 - mempelajari dasar backend 
 - mempelajari bahasa pemograman php, mysql serta framework
