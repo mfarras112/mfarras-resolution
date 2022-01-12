@@ -3,6 +3,9 @@ Rencana Pembelajaran pembuatan project
 - CSS SASS
 - Javascript
 - Javascript DOM (Document Object Model) 
-- Struktur Data Dasar
+  > Angular
+  > React
 - Dasar dasar PHP
 - PHP frameworks
+  > Codeigniter
+  > Laravel
