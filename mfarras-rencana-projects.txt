@@ -3,7 +3,7 @@ Rencana Pembelajaran pembuatan project
 - CSS SASS
 - Javascript
 - Javascript DOM (Document Object Model)  
-=======
+- Framework js =
   > Vue.js
   > React.js
 - Struktur Data Dasar
